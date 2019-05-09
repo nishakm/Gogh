@@ -74,6 +74,7 @@ declare -a THEMES=(
   'elio.sh'
   'espresso-libre.sh'
   'espresso.sh'
+  'fairyfloss.sh'
   'fishtank.sh'
   'flat.sh'
   'flatland.sh'
