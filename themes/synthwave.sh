@@ -1,27 +1,27 @@
 #!/usr/bin/env bash
 
 # ====================CONFIG THIS =============================== #
-export COLOR_01="#011627"           # Black
-export COLOR_02="#fe4450"           # Red
-export COLOR_03="#72f1b8"           # Green
-export COLOR_04="#fede5d"           # Yellow
-export COLOR_05="#03edf9"           # Blue
-export COLOR_06="#ff7edb"           # Magenta
-export COLOR_07="#03edf9"           # Cyan
+export COLOR_01="#5A085A"           # Black
+export COLOR_02="#F48A32"           # Red
+export COLOR_03="#F23997"           # Green
+export COLOR_04="#FEFF71"           # Yellow
+export COLOR_05="#00FEFC"           # Blue
+export COLOR_06="#958CFF"           # Magenta
+export COLOR_07="#12D2FF"           # Cyan
 export COLOR_08="#ffffff"           # Light gray
 
-export COLOR_09="#575656"           # Dark gray
-export COLOR_10="#fe4450"           # Light Red
-export COLOR_11="#72f1b8"           # Light Green
-export COLOR_12="#fede5d"           # Light Yellow
-export COLOR_13="#03edf9"           # Light Blue
-export COLOR_14="#ff7edb"           # Light Magenta
-export COLOR_15="#03edf9"           # Light Cyan
+export COLOR_09="#5A085A"           # Dark gray
+export COLOR_10="#F48A32"           # Light Red
+export COLOR_11="#F23997"           # Light Green
+export COLOR_12="#FEFF71"           # Light Yellow
+export COLOR_13="#00FEFC"           # Light Blue
+export COLOR_14="#958CFF"           # Light Magenta
+export COLOR_15="#12D2FF"           # Light Cyan
 export COLOR_16="#ffffff"           # White
 
-export BACKGROUND_COLOR="#262335"   # Background Color
-export FOREGROUND_COLOR="#ffffff"   # Foreground Color (text)
-export CURSOR_COLOR="#03edf9" # Cursor color
+export BACKGROUND_COLOR="#32253C"   # Background Color
+export FOREGROUND_COLOR="#E58F48"   # Foreground Color (text)
+export CURSOR_COLOR="#97D9F1" # Cursor color
 export PROFILE_NAME="SynthWave"
 # =============================================================== #
 
